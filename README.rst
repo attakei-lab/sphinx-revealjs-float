@@ -8,8 +8,14 @@ Overview
 
 This is sphinx extension to implement small syntax likely "Grid Layouts" from GitPitch with sphinx-revealjs.
 
+.. note::
+
+   This is feature for only "sphinx-revealjs" but splitted from it because experimentals.
+
 Install
 -------
+
+This is not registered in PyPI.
 
 .. code-block:: console
 
@@ -25,7 +31,7 @@ Install
 Usage
 -----
 
-Please demo presentation source and build at localmachine.
+Please demo presentation source and build at localmachine (please see ``docs`` directory).
 
 Refs
 ----
