@@ -10,7 +10,8 @@ This is sphinx extension to implement small syntax likely "Grid Layouts" from Gi
 
 .. note::
 
-   This is feature for only "sphinx-revealjs" but splitted from it because experimentals.
+   * This is feature for only "sphinx-revealjs" but splitted from it because experimentals.
+   * There is probability to change directive name. (current: ``revealjs-float``)
 
 Install
 -------
