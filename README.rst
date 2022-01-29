@@ -13,7 +13,7 @@ Install
 
 .. code-block:: console
 
-   $ pip install git+https://github.com/attakei-lab/sphinx-revealjs-float
+   $ pip install https://github.com/attakei-lab/sphinx-revealjs-float/archive/refs/heads/development.zip
 
 .. code-block:: python
 
