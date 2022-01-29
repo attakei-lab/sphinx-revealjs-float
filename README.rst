@@ -33,6 +33,8 @@ Usage
 
 Please demo presentation source and build at localmachine (please see ``docs`` directory).
 
+HTML demo is `here <https://attakei-lab.github.io/sphinx-revealjs-float/>`_
+
 Refs
 ----
 
