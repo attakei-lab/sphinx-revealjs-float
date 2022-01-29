@@ -1,5 +1,5 @@
-sphinx-revealjs-floats
-======================
+sphinx-revealjs-float
+=====================
 
 Experimental add-ons for ``sphinx-revealjs``
 
@@ -13,18 +13,19 @@ Install
 
 .. code-block:: console
 
-   $ pip install git+https://github.com/attakei-lab/sphinx-revealjs-floats
-
+   $ pip install git+https://github.com/attakei-lab/sphinx-revealjs-float
 
 .. code-block:: python
 
    extentions = [
        "sphinx_revealjs",
-       "sphinx_revealjs.ext.floats",
+       "sphinx_revealjs_float",
    ]
 
 Usage
 -----
+
+Please demo presentation source and build at localmachine.
 
 Refs
 ----
